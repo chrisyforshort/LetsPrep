@@ -6,6 +6,12 @@ Lets Prep is quick search for recipes under 30 minutes that will stick to your s
 
 Lets Prep was made with HTML, CSS, Materialize, Edamam API, and a Sequelize Database. I was the Front End developer on a team of 5. 
 
+## GIF of the Functionality
+
+![Alt Text](public/images/letsPrep.gif)
+
+## Screenshots
+
 ### Home Page
 
 On the home page there is the enter button to enter into the next page. If we were to have more time we would have a module that allowed for users to sign in after hitting enter. There is a How It Works and Why Lets Prep sections on this page for Users who are just visiting the page for the first time and are not sure of it. The hamburger nav bar is sticky and has the option of going to the different sections of this page. 
