@@ -18,11 +18,11 @@ The Plan Your Meal page is currently where you are able to do the major applicat
 
 Some improvements to this page we wish to make is being able to pick a reciepe for all three meals in a day and fix the CSS to make it prettier. 
 
-![Alt Text](public/images/letsPrepSS2.png)
+![Alt Text](public/images/letsprepSS2.png)
 
 ### Profile Page
 
 The profile page is a future improvements page. We hope to have it so once you pick out meals, you will be able to see what meals you picked on a calendar. The left component is to show the users profile information from a picture and the goals the user may have. 
 
 
-![Alt Text](public/images/letsPrepSS3.png)
+![Alt Text](public/images/letsprepSS3.png)
